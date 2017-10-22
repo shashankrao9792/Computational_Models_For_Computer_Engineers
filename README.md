@@ -1,1 +1,1 @@
-# Computational_Models_For_Computer_Engineers
+# ESE554: Computational Models For Computer Engineers
